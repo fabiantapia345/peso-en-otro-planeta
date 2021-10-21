@@ -1,0 +1,26 @@
+/*
+	jugando con degradados css
+*/
+body{
+	background-image: radial-gradient(purple,white);
+}
+	.p1{
+		background-image: 
+	}
+
+
+
+header{
+	border-style: solid black 5px;
+	border-radius: 25px;
+	padding: 2px;
+	text-align: center;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcOaLqYLDvAztTK8-qLBu7K2h0PqxfbiEtxnCfaOuBgJ1czISks52Gz-5nHASRAUPJQo&usqp=CAU);
+}
+p{
+	border: 1px black solid;
+	border-radius: 20px;
+	padding: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
